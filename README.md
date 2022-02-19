@@ -2,6 +2,8 @@
 
 Repository ini berisi file-file latihan praktikum 2 mata kuliah praktikum Desain Pemrogaman Berorientasi Objek (DPBO) 2022
 
+Janji: Saya Alief Muhammad Abdillah 2003623 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrogaman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
 - Spesifikasi Tugas:
  1. terdapat 3 class (Product, Hardware, dan Memory), dan 1 file Main
  2. Ketiga kelas saling terhubung dalam satu inheritance, dengan Class product sebagai Parent dari class Hardware, 
